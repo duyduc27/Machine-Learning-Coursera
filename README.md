@@ -6,6 +6,7 @@
 
 Code in Octave/Matlab and convert it into Python language
 
-My mentor: Phong Le (D-soft)
-	   Hieu Le (D-soft) (teach me how to use git)
+My mentors: 
+- Phong Le (D-soft)
+- Hieu Le (D-soft) (teach me how to use git)
 
